@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/softlex/static/css/main.654d5482.chunk.css",
-    "main.js": "/softlex/static/js/main.910d8eb4.chunk.js",
-    "main.js.map": "/softlex/static/js/main.910d8eb4.chunk.js.map",
-    "runtime-main.js": "/softlex/static/js/runtime-main.40f342a3.js",
-    "runtime-main.js.map": "/softlex/static/js/runtime-main.40f342a3.js.map",
-    "static/js/2.d65d02ba.chunk.js": "/softlex/static/js/2.d65d02ba.chunk.js",
-    "static/js/2.d65d02ba.chunk.js.map": "/softlex/static/js/2.d65d02ba.chunk.js.map",
-    "index.html": "/softlex/index.html",
-    "static/css/main.654d5482.chunk.css.map": "/softlex/static/css/main.654d5482.chunk.css.map",
-    "static/js/2.d65d02ba.chunk.js.LICENSE.txt": "/softlex/static/js/2.d65d02ba.chunk.js.LICENSE.txt"
+    "main.css": "/techart/static/css/main.654d5482.chunk.css",
+    "main.js": "/techart/static/js/main.910d8eb4.chunk.js",
+    "main.js.map": "/techart/static/js/main.910d8eb4.chunk.js.map",
+    "runtime-main.js": "/techart/static/js/runtime-main.35be59ab.js",
+    "runtime-main.js.map": "/techart/static/js/runtime-main.35be59ab.js.map",
+    "static/js/2.d65d02ba.chunk.js": "/techart/static/js/2.d65d02ba.chunk.js",
+    "static/js/2.d65d02ba.chunk.js.map": "/techart/static/js/2.d65d02ba.chunk.js.map",
+    "index.html": "/techart/index.html",
+    "static/css/main.654d5482.chunk.css.map": "/techart/static/css/main.654d5482.chunk.css.map",
+    "static/js/2.d65d02ba.chunk.js.LICENSE.txt": "/techart/static/js/2.d65d02ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40f342a3.js",
+    "static/js/runtime-main.35be59ab.js",
     "static/js/2.d65d02ba.chunk.js",
     "static/css/main.654d5482.chunk.css",
     "static/js/main.910d8eb4.chunk.js"
