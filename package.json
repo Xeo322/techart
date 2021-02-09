@@ -1,5 +1,5 @@
 {
-  "homepage": "https://xeo322.github.io/techart/",
+  "homepage": "https://xeo322.github.io/softlex/",
   "name": "techart",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,8 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "redux": "^4.0.5",
-    "redux-devtools-extension": "^2.13.8"
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "predeploy": "npm run build",
