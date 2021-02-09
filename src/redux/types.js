@@ -1,0 +1,7 @@
+export const INCREMENT_COUNT = 'INCREMENT_COUNT'
+export const BUILDING_TYPE = 'BUILDING_TYPE'
+export const BUILDING_HEIGHT = 'BUILDING_HEIGHT'
+export const MATERIAL_TYPE = 'MATERIAL_TYPE'
+export const BUILDING_SIZE = 'BUILDING_SIZE'
+export const CLEAR_STORE = 'CLEAR_STORE'
+export const GET_DATA = 'GET_DATA'
